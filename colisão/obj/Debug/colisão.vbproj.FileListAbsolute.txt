@@ -1,0 +1,10 @@
+c:\users\tenata\documents\visual studio 2013\Projects\colisão\colisão\bin\Debug\colisão.exe.config
+C:\Users\Tenata\documents\visual studio 2013\Projects\colisão\colisão\bin\Debug\colisão.exe
+C:\Users\Tenata\documents\visual studio 2013\Projects\colisão\colisão\bin\Debug\colisão.pdb
+C:\Users\Tenata\documents\visual studio 2013\Projects\colisão\colisão\bin\Debug\colisão.xml
+C:\Users\Tenata\documents\visual studio 2013\Projects\colisão\colisão\obj\Debug\colisão.Form1.resources
+C:\Users\Tenata\documents\visual studio 2013\Projects\colisão\colisão\obj\Debug\colisão.Resources.resources
+C:\Users\Tenata\documents\visual studio 2013\Projects\colisão\colisão\obj\Debug\colisão.vbproj.GenerateResource.Cache
+C:\Users\Tenata\documents\visual studio 2013\Projects\colisão\colisão\obj\Debug\colisão.exe
+C:\Users\Tenata\documents\visual studio 2013\Projects\colisão\colisão\obj\Debug\colisão.xml
+C:\Users\Tenata\documents\visual studio 2013\Projects\colisão\colisão\obj\Debug\colisão.pdb
